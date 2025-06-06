@@ -1,16 +1,16 @@
 # Final_Project
-# 🚗 Vehicle Rental System (C++)
+# Vehicle Rental System (C++)
 
 A simple command-line based **Vehicle Rental System** developed in C++. This project includes user authentication, vehicle management, and rental charge calculation. It supports two types of users: **Admin** and **Client**.
 
-## 👥 Members
+## Members
 
 - Thomas Alexandre S. Siman  
 - Sean Calvin Theo Lirio
 
-## 📋 Features
+## Features
 
-### ✅ User Roles
+### User Roles
 - **Admin**
   - Add and delete vehicles
   - View all vehicles
@@ -19,20 +19,20 @@ A simple command-line based **Vehicle Rental System** developed in C++. This pro
   - Rent a vehicle
   - Calculate rental charges
 
-### 🔐 Authentication
+### Authentication
 - Sign up and login
 - Role-based access (admin/client)
 - Validates password and username
 
-### 🚘 Vehicle Management
+### Vehicle Management
 - Add vehicles with ID, name, type, and rate
 - Delete vehicles by ID
 - Display vehicles and their status
 
-### 💰 Rental Charges
+### Rental Charges
 - Calculates based on days × rate per day
 
-## 🛠️ Tech Used
+## Tech Used
 
 - C++ Standard Libraries:
   - `iostream`, `vector`, `string`, `iomanip`
